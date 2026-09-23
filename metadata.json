@@ -1,0 +1,6 @@
+{
+  "name": "Menú Familiar - Decisor Semanal",
+  "description": "Planificador y decisor gastronómico flexible para comidas y cenas familiares basado en combos nutricionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
